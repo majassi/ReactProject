@@ -1,0 +1,35 @@
+body {
+  font-family: sans-serif;
+  margin: 0 auto;
+  padding: 25px;
+  max-width: 400px;
+  min-width: 400px;
+  background-color: rgb(9, 10, 10);
+  text-align: center;
+  color: white;
+}
+
+button {
+  background-color: grey;
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 15px;
+  margin: 5px;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+input {
+  padding: 15px;
+  font-size: 16pt;
+}
+
+.add-name {
+  font-size: 16pt;
+}
+
+.createButton {
+  width: 300px;
+}
+
