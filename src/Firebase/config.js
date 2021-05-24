@@ -4,12 +4,13 @@ import "firebase/auth";
 import "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAhrLPvPO8NrK3NFpXwjEzQFN5bLZ38gm4",
-  authDomain: "reactjs-bd5a7.firebaseapp.com",
-  projectId: "reactjs-bd5a7",
-  storageBucket: "reactjs-bd5a7.appspot.com",
-  messagingSenderId: "260609940849",
-  appId: "1:260609940849:web:8c72b18d0434d9cb272ad0",
+  apiKey: "AIzaSyBDINRBwff3bbm6NjNnvGFPI3wZkLCkaGM",
+  authDomain: "react-ff305.firebaseapp.com",
+  projectId: "react-ff305",
+  storageBucket: "react-ff305.appspot.com",
+  messagingSenderId: "382748812619",
+  appId: "1:382748812619:web:0c675dd25ef881188ef4ce",
+  measurementId: "G-11K7MGPRBH"
 };
 
 //init firebase
