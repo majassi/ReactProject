@@ -26,8 +26,7 @@ const App = () => {
         <Route exact path="/">
           <div className="main">
             <h1>
-            Welcome to the book library. We have collected some of the hottest books that is on Amazon. 
-            View some of the best selling books by clicking the button below. 
+           Hej og velkommen til det digitale bibliotek. Her kan du søge på alle de bøger du vil.
             </h1>
             </div>
             <Button variant="contained" color="primary" href="#www.google.com">
